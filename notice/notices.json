@@ -1,0 +1,12 @@
+[
+  {
+    "title": "2.0.15 Update",
+    "intro": "2.0.15 更新内容 ： \n · 带来了vtf（喷漆）制作器 \n ·带来了Gma解包神器，为后续的vpk管理工具做铺垫 \n · ui界面从底层重写，移除大量僵尸代码，深度优化 \n ·下个版本将会移除cstrike支持",
+    "versionType": "stable",
+    "translator": "None",
+    "imageFileName": "https://github.com/2376780283/SourceApp-update/blob/main/images/test.jpeg",
+    "officialLink": "https://example.com",
+    "wikiLink": "https://wiki.example.com",
+    "version": "2.0.15"
+  }
+]
