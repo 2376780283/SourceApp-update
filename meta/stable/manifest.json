@@ -7,7 +7,7 @@
             "channel": "beta",
             "minSdk": 29,
             "maxSdk": 36,
-            "forceUpdate": true,
+            "forceUpdate": false,
             "minVersionCode": 0,
             "rolloutPercentage": 100,
             "apkUrl": "https://raw.githubusercontent.com/2376780283/SourceApp-update/main/meta/stable/resource/sourceapp-2.0.16-01beta.apk",
