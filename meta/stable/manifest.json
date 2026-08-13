@@ -1,0 +1,41 @@
+{
+    "schemaVersion": 2,
+    "releases": [
+        {
+            "versionName": "2.0.16-01-beta",
+            "versionCode": 20260815,
+            "channel": "beta",
+            "minSdk": 29,
+            "maxSdk": 36,
+            "forceUpdate": false,
+            "minVersionCode": 0,
+            "rolloutPercentage": 100,
+            "apkUrl": "https://raw.githubusercontent.com/2376780283/SourceApp-update/main/meta/stable/resource/sourceapp-2.0.16-01beta.apk",
+            "apkSha256": "e5f6...",
+            "changelog": {
+                "zh-CN": "更新内容：\n •添加vpk打包解包功能（v1支持解包，v2解包，打包都可以，支持分卷打包）\n •UI UX功能升级，游戏路径选择界面移动至游戏库安装页面，修正一些ui bug，调整整体padding \n •完成游戏startup播放功能，支持、bik 、mp4 、webm可能支持 \n •半条命2，第一章，第二章，支持c_arm（指令 c_hand models/....your.mdl）"
+            },
+            "coverUrl": "https://raw.githubusercontent.com/2376780283/SourceApp-update/main/images/test2.png,
+            "publishTime": "2026-08-15T00:00:00Z",
+            "isActive": true
+        },
+        {
+            "versionName": "2.0.15",
+            "versionCode": 20260728,
+            "channel": "beta",
+            "minSdk": 29,
+            "maxSdk": 36,
+            "forceUpdate": false,
+            "minVersionCode": 0,
+            "rolloutPercentage": 100,
+            "apkUrl": "",
+            "apkSha256": "",
+            "changelog": {
+                "zh-CN": ""
+            },
+            "coverUrl": "",
+            "publishTime": "2026-07-28T00:00:00Z",
+            "isActive": true
+        }
+    ]
+}
