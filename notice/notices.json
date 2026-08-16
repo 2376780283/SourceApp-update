@@ -1,5 +1,15 @@
 [
     {
+        "title": "启动器开发公告",
+        "intro": "由于开发者时间不充裕，所以启动器后续更新速度越来越慢（排除假期期间）\n \n启动器所使用的引擎是从nillerusr上创建的分支，使用llvm19构建 与 “官方原版的启动器” 无法兼容，所以后续启动器可能会出一个“导入游戏功能”，另外启动器在尽可能支持先今能在android平台上跑的“游戏/模组” 基于起源引擎 \n \n我们的目标是尽可能让玩家拥有PC平台级别的体验，完全免费 \n \n · 启动器里内置打赏功能，喜欢的话就打赏支持一下，谢谢！，\n \n SAC交流社区（初始）：\n · QQ群：608772497 \n · Discord：https://discord.gg/xcDg9nrB8 \n · [Source App Community] ：https://pd.qq.com/s/82ulr7xr1?b=9",
+        "versionType": "stable",
+        "translator": "None",
+        "imageFileName": "https://raw.githubusercontent.com/2376780283/SourceApp-update/main/images/test2.png",
+        "officialLink": "https://github.com/2376780283/SourceApp-update",
+        "wikiLink": "https://github.com/2376780283/SourceApp-update",
+        "version": "2.0.16.1"
+    },
+    {
         "title": "2.0.16 BETA Preview",
         "intro": "2.0.16 beta 01 更新内容 : \n · 调整ui主题一致 \n · 迁移路径选择器到游戏库管理下方 \n · 添加文件管理器模块（vpk vtf工具操作模式） \n · 启动器导航栏彻底重写 \n · hl2 ep1 ep2 支持 c_arm（指令 c_hand models....YourHandModel.mdl）\n · 支持成就解析，现在你可以在启动器上查看你所获得的游戏成就（支持 hl2 ep1 ep1）",
         "versionType": "stable",
