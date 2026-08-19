@@ -11,7 +11,7 @@
     },
     {
         "title": "2.0.16 BETA Preview",
-        "intro": "2.0.16 beta 01 更新内容 : \n · 调整ui主题一致 \n · 迁移路径选择器到游戏库管理下方 \n · 添加文件管理器模块（vpk vtf工具操作模式） \n · 启动器导航栏彻底重写 \n · hl2 ep1 ep2 支持 c_arm（指令 c_hand models....YourHandModel.mdl）\n · 支持成就解析，现在你可以在启动器上查看你所获得的游戏成就（支持 hl2 ep1 ep1）",
+        "intro": "2.0.16 beta 01 更新内容 : \n · 调整ui主题一致 \n · 迁移路径选择器到游戏库管理下方 \n · 添加文件管理器模块（vpk vtf工具操作模式） \n · 启动器导航栏彻底重写 \n · hl2 ep1 ep2 支持 c_arm（指令 c_hand models....YourHandModel.mdl）但是目前不会再SourceApp上使用，兼容性较差 \n · 支持成就解析，现在你可以在启动器上查看你所获得的游戏成就（支持 hl2 ep1 ep1）",
         "versionType": "stable",
         "translator": "None",
         "imageFileName": "https://raw.githubusercontent.com/2376780283/SourceApp-update/main/images/test2.png",
