@@ -10,6 +10,16 @@
         "version": "2.0.16.1"
     },
     {
+        "title": "2.0.16-1 BETA 1 Preview",
+        "intro": "2.0.16 feat \n 修正错误 : \n • 在某些设备上app移动到文件夹里导致桌面反复重启(针对 hyperOS 3.0.7.0+) \n • 修正切换路径成就加载导致app崩溃 \n • 修正引擎日志界面lazy列表无限高度导致崩溃 \n • 修正视频背景加载导致崩溃 \n \n 更新内容 : \n•主页动画改进 \n • 游戏选择sheet卡片布局修改，保证最小宽度为120dp，添加launch按钮云母动画 \n • 不允许视频背景使用视差效果",
+        "versionType": "stable",
+        "translator": "None",
+        "imageFileName": "https://raw.githubusercontent.com/2376780283/SourceApp-update/main/images/test2.png",
+        "officialLink": "https://github.com/2376780283/SourceApp-update",
+        "wikiLink": "https://github.com/2376780283/SourceApp-update",
+        "version": "2.0.16.1"
+    },
+    {
         "title": "2.0.16 BETA Preview",
         "intro": "2.0.16 beta 01 更新内容 : \n · 调整ui主题一致 \n · 迁移路径选择器到游戏库管理下方 \n · 添加文件管理器模块（vpk vtf工具操作模式） \n · 启动器导航栏彻底重写 \n · hl2 ep1 ep2 支持 c_arm（指令 c_hand models....YourHandModel.mdl）但是目前不会再SourceApp上使用，兼容性较差 \n · 支持成就解析，现在你可以在启动器上查看你所获得的游戏成就（支持 hl2 ep1 ep1）",
         "versionType": "stable",
