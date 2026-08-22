@@ -2,6 +2,24 @@
     "schemaVersion": 2,
     "releases": [
         {
+            "versionName": "2.0.16-2-beta",
+            "versionCode": 202608026,
+            "channel": "beta",
+            "minSdk": 29,
+            "maxSdk": 36,
+            "forceUpdate": false,
+            "minVersionCode": 0,
+            "rolloutPercentage": 100,
+            "apkUrl": "https://www.mediafire.com/file/l2ubxy40m64uetl/Source_App_%25E5%2590%25AF%25E5%258A%25A8%25E5%2599%25A8_2.0.16beta-2.apk/file",
+            "apkSha256": "",
+            "changelog": {
+                "zh-CN": "2.0.16d feat \n · 简化库安装\n · 修正库安装状态\n · 添加游戏语言切换功能\n · 修正启动游戏崩溃(Android 10) \n · 修正ez1游戏库版本 \n · 修正一些翻译问题"
+            },
+            "coverUrl": "https://raw.githubusercontent.com/2376780283/SourceApp-update/main/images/Screenshot_20260822_115416.jpg",
+            "publishTime": "2026-08-21T00:00:00Z",
+            "isActive": true
+        },
+        {
             "versionName": "2.0.16-1-beta",
             "versionCode": 202608025,
             "channel": "beta",

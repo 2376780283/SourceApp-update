@@ -10,6 +10,16 @@
         "version": "2.0.16.1"
     },
     {
+        "title": "2.0.16-2 BETA D Preview",
+        "intro": "2.0.16d beta应该算是8月份最后一个版本，下个版本要等到9月中旬或更晚",
+        "versionType": "stable",
+        "translator": "None",
+        "imageFileName": "https://raw.githubusercontent.com/2376780283/SourceApp-update/main/images/Image_1785390622702_831.jpg",
+        "officialLink": "https://github.com/2376780283/SourceApp-update",
+        "wikiLink": "https://github.com/2376780283/SourceApp-update",
+        "version": "2.0.16.2"
+    },
+    {
         "title": "2.0.16-1 BETA 1 Preview",
         "intro": "2.0.16 feat \n 修正错误 : \n • 在某些设备上app移动到文件夹里导致桌面反复重启(针对 hyperOS 3.0.7.0+) \n • 修正切换路径成就加载导致app崩溃 \n • 修正引擎日志界面lazy列表无限高度导致崩溃 \n • 修正视频背景加载导致崩溃 \n \n 更新内容 : \n•主页动画改进 \n • 游戏选择sheet卡片布局修改，保证最小宽度为120dp，添加launch按钮云母动画 \n • 不允许视频背景使用视差效果",
         "versionType": "stable",
