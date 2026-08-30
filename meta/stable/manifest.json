@@ -2,6 +2,24 @@
     "schemaVersion": 2,
     "releases": [
         {
+            "versionName": "2.0.16-3-beta",
+            "versionCode": 202608028,
+            "channel": "beta",
+            "minSdk": 29,
+            "maxSdk": 36,
+            "forceUpdate": false,
+            "minVersionCode": 0,
+            "rolloutPercentage": 100,
+            "apkUrl": "https://www.mediafire.com/file/l2ubxy40m64uetl/Source_App_%25E5%2590%25AF%25E5%258A%25A8%25E5%2599%25A8_2.0.16beta-2.apk/file",
+            "apkSha256": "",
+            "changelog": {
+                "zh-CN": "2.0.16d feat ：\n · 默认导航栏在顶部，根据现有反馈情况调整策略 \n · 实现设置路径到SD卡或外部设备上 \n · 调整启动检查条目 \n · 修正 UI nvgbar被挤压问题 \n • 修正vtf转换（vtf <-> png webp jpeg jpg） \n • 升级vtf转换操作功能 \n • 启动器卡片布局统一采用自适应 100dp宽度 \n • 重构并完成引导界面 \n • 修正安装库版本错误 \n • 调整部分界面Padding 最大固定为 8dp \n • 修正库版本管理状态混乱版本号不对的情况"
+            },
+            "coverUrl": "https://raw.githubusercontent.com/2376780283/SourceApp-update/main/images/Screenshot_20260822_115416.jpg",
+            "publishTime": "2026-08-21T00:00:00Z",
+            "isActive": true
+        },
+        {
             "versionName": "2.0.16-2-beta",
             "versionCode": 202608026,
             "channel": "beta",
@@ -17,7 +35,7 @@
             },
             "coverUrl": "https://raw.githubusercontent.com/2376780283/SourceApp-update/main/images/Screenshot_20260822_115416.jpg",
             "publishTime": "2026-08-21T00:00:00Z",
-            "isActive": true
+            "isActive": false
         },
         {
             "versionName": "2.0.16-1-beta",
@@ -35,7 +53,7 @@
             },
             "coverUrl": "https://raw.githubusercontent.com/2376780283/SourceApp-update/main/images/test2.png",
             "publishTime": "2026-08-15T00:00:00Z",
-            "isActive": true
+            "isActive": false
         },
         {
             "versionName": "2.0.16-01-beta",
@@ -53,7 +71,7 @@
             },
             "coverUrl": "https://raw.githubusercontent.com/2376780283/SourceApp-update/main/images/test2.png",
             "publishTime": "2026-08-15T00:00:00Z",
-            "isActive": true
+            "isActive": false
         },
         {
             "versionName": "2.0.15",
