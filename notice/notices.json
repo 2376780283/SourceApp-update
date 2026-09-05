@@ -1,15 +1,5 @@
 [
     {
-        "title": "2.0.16-3 BETA D Preview",
-        "intro": "现在已完成：\n · 默认导航栏在顶部，根据现有反馈情况调整策略 \n · 实现设置路径到SD卡或外部设备上 \n · 调整启动检查条目 \n · 修正 UI nvgbar被挤压问题 \n • 修正vtf转换（vtf <-> png webp jpeg jpg） \n • 升级vtf转换操作功能 \n • 启动器卡片布局统一采用自适应 100dp宽度 \n • 重构并完成引导界面 \n • 修正安装库版本错误 \n • 调整部分界面Padding 最大固定为 8dp",
-        "versionType": "stable",
-        "translator": "None",
-        "imageFileName": "https://raw.githubusercontent.com/2376780283/SourceApp-update/main/images/Image_1785390622702_831.jpg",
-        "officialLink": "https://github.com/2376780283/SourceApp-update",
-        "wikiLink": "https://github.com/2376780283/SourceApp-update",
-        "version": "2.0.16.2"
-    },
-    {
         "title": "启动器开发公告",
         "intro": "由于开发者时间不充裕，所以启动器后续更新速度越来越慢（排除假期期间）\n \n启动器所使用的引擎是从nillerusr上创建的分支，使用llvm19构建 与 “官方原版的启动器” 无法兼容，所以后续启动器可能会出一个“导入游戏功能”，另外启动器在尽可能支持先今能在android平台上跑的“游戏/模组” 基于起源引擎 \n \n我们的目标是尽可能让玩家拥有PC平台级别的体验，完全免费 \n \n · 启动器里内置打赏功能，喜欢的话就打赏支持一下，谢谢！，\n \n SAC交流社区（初始）：\n · QQ群：608772497 \n · Discord：https://discord.gg/xcDg9nrB8 \n · [Source App Community] ：https://pd.qq.com/s/82ulr7xr1?b=9",
         "versionType": "stable",
@@ -17,7 +7,7 @@
         "imageFileName": "https://raw.githubusercontent.com/2376780283/SourceApp-update/main/images/test2.png",
         "officialLink": "https://github.com/2376780283/SourceApp-update",
         "wikiLink": "https://github.com/2376780283/SourceApp-update",
-        "version": "2.0.16.1"
+        "version": "2.0.16 beta ABCD"
     },
     {
         "title": "2.0.16-2 BETA D Preview",
