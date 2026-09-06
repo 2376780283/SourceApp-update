@@ -1,5 +1,15 @@
 [
     {
+        "title": "启动器开发公告2",
+        "intro": "启动器UIX基本已定型，剩下的维护内容就是修bug和调整&添加功能，目前正在尝试集成添加现有可以在Android上跑的模组\n \n 未来方向 \n · 添加更多功能，无线接近或超越PC体验 \n · live2d 问题修正 \n · 启动器端control支持 \n · 集成更多单机剧情模组游戏 \n · 对更多设备优化",
+        "versionType": "stable",
+        "translator": "None",
+        "imageFileName": "https://raw.githubusercontent.com/2376780283/SourceApp-update/main/images/Screenshot_20260905_110927.jpg",
+        "officialLink": "https://github.com/2376780283/SourceApp-update",
+        "wikiLink": "https://github.com/2376780283/SourceApp-update",
+        "version": "2.0.16 beta C -> D"
+    },
+    {
         "title": "启动器开发公告",
         "intro": "由于开发者时间不充裕，所以启动器后续更新速度越来越慢（排除假期期间）\n \n启动器所使用的引擎是从nillerusr上创建的分支，使用llvm19构建 与 “官方原版的启动器” 无法兼容，所以后续启动器可能会出一个“导入游戏功能”，另外启动器在尽可能支持先今能在android平台上跑的“游戏/模组” 基于起源引擎 \n \n我们的目标是尽可能让玩家拥有PC平台级别的体验，完全免费 \n \n · 启动器里内置打赏功能，喜欢的话就打赏支持一下，谢谢！，\n \n SAC交流社区（初始）：\n · QQ群：608772497 \n · Discord：https://discord.gg/xcDg9nrB8 \n · [Source App Community] ：https://pd.qq.com/s/82ulr7xr1?b=9",
         "versionType": "stable",

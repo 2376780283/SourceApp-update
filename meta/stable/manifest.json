@@ -2,7 +2,25 @@
     "schemaVersion": 2,
     "releases": [
         {
-            "versionName": "2.0.16-4-beta",
+            "versionName": "2.0.16-6-beta",
+            "versionCode": 202609008,
+            "channel": "beta",
+            "minSdk": 29,
+            "maxSdk": 36,
+            "forceUpdate": false,
+            "minVersionCode": 0,
+            "rolloutPercentage": 100,
+            "apkUrl": "https://www.mediafire.com/file/tsa7f3g0i3j0lrz/Source+App+启动器_2.0.16beta6.apk/file",
+            "apkSha256": "",
+            "changelog": {
+                "zh-CN": "SourceApp 2.0.16 beta 6 \n · 添加AMOLED模式 \n · 调整部分界面padding8.dp->6.dp单位 \n · 重写项目nvgbar组件中 \n · 调整背景层级 \n · 使用chips作为3级导航"
+            },
+            "coverUrl": "https://raw.githubusercontent.com/2376780283/SourceApp-update/main/images/Screenshot_20260905_110927.jpg",
+            "publishTime": "2026-09-08T00:00:00Z",
+            "isActive": true
+        },
+        {
+            "versionName": "2.0.16-5-beta",
             "versionCode": 202609006,
             "channel": "beta",
             "minSdk": 29,
