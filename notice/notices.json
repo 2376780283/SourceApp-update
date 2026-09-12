@@ -1,7 +1,7 @@
 [
     {
         "title": "启动器开发公告2",
-        "intro": "启动器UIX基本已定型，剩下的维护内容就是修bug和调整&添加功能，目前正在尝试集成添加现有可以在Android上跑的模组\n \n 未来方向 \n · 添加更多功能，无线接近或超越PC体验 \n · live2d 问题修正 \n · 启动器端control支持 \n · 集成更多单机剧情模组游戏 \n · 对更多设备优化",
+        "intro": "启动器UIX基本已定型，剩下的维护内容就是修bug和调整&添加功能，目前正在尝试集成添加现有可以在Android上跑的模组\n \n 未来方向 \n · 添加更多功能，无限接近或超越PC体验 \n · live2d 问题修正 \n · 启动器端control支持 \n · 集成更多单机剧情模组游戏 \n · 对更多设备优化",
         "versionType": "stable",
         "translator": "None",
         "imageFileName": "https://raw.githubusercontent.com/2376780283/SourceApp-update/main/images/Screenshot_20260905_110927.jpg",
