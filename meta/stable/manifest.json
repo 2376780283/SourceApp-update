@@ -2,6 +2,24 @@
     "schemaVersion": 2,
     "releases": [
         {
+            "versionName": "2.0.17-1-beta",
+            "versionCode": 202609019,
+            "channel": "beta",
+            "minSdk": 29,
+            "maxSdk": 36,
+            "forceUpdate": false,
+            "minVersionCode": 0,
+            "rolloutPercentage": 100,
+            "apkUrl": "https://www.mediafire.com/file/xffl6kx8i3hmw6k/Source_App_%25E5%2590%25AF%25E5%258A%25A8%25E5%2599%25A8_2.0.17beta1.apk/file",
+            "apkSha256": "",
+            "changelog": {
+                "zh-CN": "SourceApp beta 2.0.17 B1 \n \n · 添加control库(完整重构) \n · 支持新 control 操作 \n · 移除oshi库 apk体积减少3MB \n · 修正home界面ActionBar背景颜色 \n · 修正vtf预览卡片颜色 \n · 修正control触控一些小问题 \n · 调整homeactionbar内容权重 \n · 调整默认颜色为gold颜色并修正启动器配色主题 \n · 调整部分uiPadding \n · 修正启动检查初始化状态 \n · 修正live2d关闭导致游戏加载闪退 \n · 修正touch_enable状态 \n • 修正退出对话框失去焦点 \n • 重构成就解析和成就系统 \n • 启动器底层重构 \n • home主页sheet在平板上不完全展开 \n • EZ2 2.2版本上线同步steam \n • 修正游戏时长算法和生命周期 \n • 移除项目一些死代码 \n • 规范化启动器UI设计 \n • 规范化ui和font大小 \n • 修正字体大小 \n • 升级material版本1.5.0 alpha \n • 优化部分组件操作方式 \n • 更好的pakTool&&文件管理器 \n - 迁移成就系统 \n • 支持app私有目录运行游戏（推荐）\n • 重写新的FileManager \n • 再次重构底层 \n • 升级App接口类 • 优化live2d和修正已知live2d问题 \n – 修改app图标 \n · 更新agp和依赖 \n • homeScreen加入tlie组件 \n • 重构GameConfig界面 \n · 调整游戏选择业务 · app整体升级"
+            },
+            "coverUrl": "https://raw.githubusercontent.com/2376780283/SourceApp-update/main/images/Screenshot_20260905_110927.jpg",
+            "publishTime": "2026-10-5T00:00:00Z",
+            "isActive": true
+        },
+        {
             "versionName": "2.0.16-8-beta",
             "versionCode": 202609012,
             "channel": "beta",
